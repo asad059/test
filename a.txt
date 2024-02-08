@@ -4,3 +4,4 @@ merge
 cli
 github
 github2
+cli2
